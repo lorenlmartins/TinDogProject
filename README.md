@@ -4,7 +4,7 @@ Start up landing page for a fictional application named TinDog. A website design
 
 ## Deployment
 
-Deployed Website: **
+Deployed Website: *https://lorenlmartins.github.io/tindog-project/*
 
 ![TinDog Screenshot](./images/Screenshot_1.jpg)
 
